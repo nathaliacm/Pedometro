@@ -1,0 +1,94 @@
+{
+  "locations": [
+    {
+      "lat": -3.74375849,
+      "lon": -38.53605532,
+      "altitude_m": 83.0,
+      "accuracy_m": 71.29899597167969,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042849541952
+    },
+    {
+      "lat": -3.74374369,
+      "lon": -38.53602387,
+      "altitude_m": 88.0,
+      "accuracy_m": 62.196998596191406,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042850542520
+    },
+    {
+      "lat": -3.74364197,
+      "lon": -38.53597024,
+      "altitude_m": 101.0,
+      "accuracy_m": 60.68000030517578,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042851542159
+    },
+    {
+      "lat": -3.74362931,
+      "lon": -38.53595128,
+      "altitude_m": 106.0,
+      "accuracy_m": 51.577999114990234,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042852539723
+    },
+    {
+      "lat": -3.74364739,
+      "lon": -38.53596469,
+      "altitude_m": 102.0,
+      "accuracy_m": 45.5099983215332,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042853541662
+    },
+    {
+      "lat": -3.74376473,
+      "lon": -38.53604265,
+      "altitude_m": 83.0,
+      "accuracy_m": 31.856998443603516,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042854541935
+    },
+    {
+      "lat": -3.74376628,
+      "lon": -38.53604536,
+      "altitude_m": 83.0,
+      "accuracy_m": 30.34000015258789,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042855545278
+    },
+    {
+      "lat": -3.74376282,
+      "lon": -38.53604014,
+      "altitude_m": 84.0,
+      "accuracy_m": 34.89099884033203,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042856539299
+    },
+    {
+      "lat": -3.74376125,
+      "lon": -38.53603919,
+      "altitude_m": 84.0,
+      "accuracy_m": 27.305999755859375,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042857541137
+    },
+    {
+      "lat": -3.74376291,
+      "lon": -38.5360401,
+      "altitude_m": 84.0,
+      "accuracy_m": 25.788999557495117,
+      "speed_m_s": 0.0,
+      "bearing_degrees": 0.0,
+      "time_usec": 1042858542313
+    }
+  ]
+}
